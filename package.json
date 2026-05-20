@@ -1,0 +1,20 @@
+{
+  "name": "ej-js1",
+  "version": "1.0.0",
+  "description": "A project for solve the exercise in Factoria F5 Boocamp.",
+  "license": "ISC",
+  "author": "Danyil Muntianu",
+  "type": "module",
+  "main": "fizz-buzz.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:ui": "vitest --ui"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.6"
+  }
+}
