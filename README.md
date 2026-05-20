@@ -1,8 +1,8 @@
 # F5 EJERCICIO - JavaScript, Vitest
 
 ## Plan:
-0. Escribir un plan en `README.md`. 
-1. Preparacuib del proyecto.
+0. ✅ Escribir un plan en `README.md`. 
+1. ✅ Preparacuib del proyecto.
     - Crear un repositorio.
     - Instalar los dependencias. 
 2. Crear funcion `checkNumbers()` en `fizz-bazz.js`.
