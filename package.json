@@ -5,14 +5,16 @@
   "license": "ISC",
   "author": "Danyil Muntianu",
   "type": "module",
-  "main": "fizz-buzz.js",
+  "main": "./index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
     "test": "vitest",
     "test:run": "vitest run",
-    "test:ui": "vitest --ui"
+    "test:ui": "vitest --ui",
+    "start": "node index.js"
+
   },
   "devDependencies": {
     "vitest": "^4.1.6"

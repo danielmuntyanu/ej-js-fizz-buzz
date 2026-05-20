@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import {checkNumber} from "../src/fizz-buzz"
+import { checkNumber } from "../src/fizz-buzz"
 
 
 describe("Tests for validation the input data", () => {

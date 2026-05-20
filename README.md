@@ -16,7 +16,7 @@
 4. ✅ Anadir una lógica en `fizz-bass.js` pora mas escenarios.
 5. ✅ Modificar el test para recibir un Error correctamente.
 6. ✅ Hacer todos los testos y hacer el screenshot de la pantalla.
-7. Anadir una programa para encontrar respuestas para cada numero de 0 a 100.
+7. ✅ Anadir una programa para encontrar respuestas para cada numero de 0 a 100.
 8. Push a GitHub repositorio.
 
 
