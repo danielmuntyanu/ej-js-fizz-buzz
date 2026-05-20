@@ -10,21 +10,21 @@ describe("FizzBuzz", () => {
         expect(result).toBe(expected);
     });
     
-    test("Should return Bazz", () => {
+    test("Should return Buzz", () => {
         const n = 5;
-        const expected = "Bazz";
+        const expected = "Buzz";
         const result = checkNumber(n);
         expect(result).toBe(expected);
     });
 
-    test("Should return FizzBazz", () => {
+    test("Should return FizzBuzz", () => {
         const n = 15;
-        const expected = "FizzBazz";
+        const expected = "FizzBuzz";
         const result = checkNumber(n);
         expect(result).toBe(expected);
     });
 
-    test("Should return Fizz", () => {
+    test("Should return the same number", () => {
         const n = 7;
         const expected = n;
         const result = checkNumber(n);

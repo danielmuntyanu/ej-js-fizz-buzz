@@ -6,13 +6,15 @@
 ## Plan:
 0. ✅ Escribir un plan en `README.md`. 
 1. ✅ Preparacuib del proyecto.
-    - Crear un repositorio.
+    - Crear un repositorio locale.
     - Instalar los dependencias. 
 2. ✅ Escribir tests para todos los escenarios en `fizz-bazz.test.js`.
 3. ✅ Crear funcion `checkNumbers()` con solamente primer escenario en `fizz-bazz.js`, hacer un test.
-4. Anadir una lógica en `fizz-bass.js` pora mas escenarios.
-5. Anadir un test para cada numero de 0 a 100.
-6. Hacer todos los testos y hacer el screenshot de la pantalla.
+4. ✅ Anadir una lógica en `fizz-bass.js` pora mas escenarios.
+5. Modificar el test para recibir un Error correctamente.
+6. Anadir un test para cada numero de 0 a 100.
+7. Hacer todos los testos y hacer el screenshot de la pantalla.
+8. Push a GitHub repositorio.
 
 
 ## Escenarios:
