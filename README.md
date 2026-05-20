@@ -5,10 +5,11 @@
 1. ✅ Preparacuib del proyecto.
     - Crear un repositorio.
     - Instalar los dependencias. 
-2. Crear funcion `checkNumbers()` en `fizz-bazz.js`.
-3. Ańadir solamente primer escenario para comprobar que todo funciona bien en `fizz-bazz.test.js`.
-4. Anadir mas situaciones al test archivo.
-5. Hacer todos los testos y hacer el screenshot de la pantalla.
+2. ✅ Escribir tests para todos los escenarios en `fizz-bazz.test.js`.
+3. Crear funcion `checkNumbers()` con solamente primer escenario en `fizz-bazz.js`, hacer un test.
+4. Anadir una lógica en `fizz-bass.js` pora mas escenarios.
+5. Anadir un test para cada numero de 0 a 100.
+6. Hacer todos los testos y hacer el screenshot de la pantalla.
 
 
 ## Escenarios:
