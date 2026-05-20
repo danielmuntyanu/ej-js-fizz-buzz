@@ -3,8 +3,8 @@ export function checkNumber (numb) {
     //     Given que proporciono el valor "hola"
     //     When ejecuto la función FizzBuzz
     //     Then debe lanzarse un error indicando que el dato no es un número
-    if (!Number.isInteger(numb) || typeof numb === 'undefined' || typeof numb === 'string') {
-        return "el dato no es un número";
+    if (!Number.isInteger(numb) || typeof numb !== 'number' || Number.isNaN(numb)) {
+        throw new Error("el dato no es un número");
     }
 
     // Scenario: Número divisible por 3 y 5
