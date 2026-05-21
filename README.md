@@ -9,7 +9,25 @@
 - TDD (Test Driven Development)
 - Separar los bloques `describe` entre la validación de datos y la lógica del proyecto.
 
-## Plan:
+
+## Plan de v2.0.0:
+
+- Criteria acceptacion 
+- test 
+- funcion ( salida -> list[1-100] )
+
+Tengo que hacer:
+- funcion para crear una lista de numeros 1 - 100.
+- tests de diferentes casos (no para todos los numeros)
+- salida debe ser una lista (no imprint)
+
+
+
+
+
+
+
+## Plan de v1.0.0:
 0. ✅ Escribir un plan en `README.md`. 
 1. ✅ Preparacuib del proyecto.
     - Crear un repositorio locale.
@@ -25,7 +43,6 @@
 
 ## Testing Screenshot:
 ![Tests Screenshot](./tests-screenshot.png)
-
 
 ## Salida de consola al ejecutar el programa:
 

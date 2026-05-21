@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { checkNumber } from "../src/fizz-buzz"
+import { checkNumber } from "../src/fizz-buzz.js";
 
 
 describe("Tests for validation the input data", () => {
@@ -32,6 +32,7 @@ describe("Tests for validation the input data", () => {
     });
 });
 
+
 describe("Tests of FizzBuzz logic", () => {
     test("Should return Fizz", () => {
         const n = 3;
@@ -61,4 +62,5 @@ describe("Tests of FizzBuzz logic", () => {
         expect(result).toBe(expected);
     });
 });
+
 
